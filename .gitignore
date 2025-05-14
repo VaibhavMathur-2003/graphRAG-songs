@@ -1,0 +1,6 @@
+venv
+__pycache__
+spotify_millsongdata.csv
+
+*.csv
+.env
